@@ -6,6 +6,8 @@ Sou uma profissional que aprende rápido, de forma autônoma, e tenho facilidade
 
 Atualmente, estou em transição de carreira, migrando do desenvolvimento back-end para a área de IA Generativa. Tenho conhecimento intermediário em Java, Python e báscio em Quality Assurance. Possuo experiência em testes unitários, documentação de processos, levantamento de requisitos e modelagem de dados, com foco crescente no aprimoramento de conhecimentos na área de dados. Tenho habilidade na identificação e resolução de problemas de qualidade, além da criação de soluções informatizadas alinhadas às necessidades organizacionais e expectativas de negócio. Tenho familiaridade com Microsoft Azure, incluindo Azure Data Factory, Dataflow e Databricks, para a construção e gestão de pipelines de dados e análise em ambientes de nuvem. Sou comprometida com a melhoria contínua e a qualidade de software ao longo do ciclo de desenvolvimento.
 
+**LinkedIn:** [linkedin.com/in/catarinaoliveira-tech](https://www.linkedin.com/in/catarinaoliveira-tech) 
+
 ---
 
 ## Skills
