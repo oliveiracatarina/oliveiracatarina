@@ -1,5 +1,7 @@
 # Catarina Oliveira
 
+README (English): 
+
 Desenvolvedora Júnior com experiência intermediária em Java e conhecimento intermediário em Python. Já trabalhei com Spring Boot, realizando testes unitários com JUnit e Mockito, e possuo noções básicas de Postman para testes de API. Possuo experiência básica com JDBC e JPA, além de familiaridade com Git e conhecimento em Azure. Estudei JavaScript durante a graduação, sendo capaz de me desenvolver na linguagem conforme as demandas do projeto.
 
 Sou uma profissional que aprende rápido, de forma autônoma, e tenho facilidade em buscar conhecimento por conta própria. Procuro tirar dúvidas apenas quando necessário, otimizando o aprendizado e a produtividade. Além disso, sou adaptável, gosto de desafios e estou sempre disposta a aprofundar meus conhecimentos para contribuir melhor com a equipe e os projetos.
