@@ -1,6 +1,6 @@
 # Catarina Oliveira
 
-README (Portuguese): 
+[README (Portuguese)](https://github.com/oliveiracatarina/oliveiracatarina/blob/3562f84272dcb6951dae37ef27ecee20e0109787/README.md)
 
 Junior Developer with intermediate experience in Java and intermediate knowledge in Python. I have worked with Spring Boot, performing unit tests with JUnit and Mockito, and have basic knowledge of Postman for API testing. I have basic experience with JDBC and JPA, as well as familiarity with Git and knowledge in Azure. I studied JavaScript during my undergraduate studies and am able to develop with the language according to project demands.
 
