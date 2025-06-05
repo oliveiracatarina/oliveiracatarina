@@ -1,6 +1,6 @@
 # Catarina Oliveira
 
-README (English): 
+[README - English version](https://github.com/oliveiracatarina/oliveiracatarina/blob/d8d577cf536afa15cf095ce5551eef2c2cf0206c/README-EN.md)
 
 Desenvolvedora Júnior com experiência intermediária em Java e conhecimento intermediário em Python. Já trabalhei com Spring Boot, realizando testes unitários com JUnit e Mockito, e possuo noções básicas de Postman para testes de API. Possuo experiência básica com JDBC e JPA, além de familiaridade com Git e conhecimento em Azure. Estudei JavaScript durante a graduação, sendo capaz de me desenvolver na linguagem conforme as demandas do projeto.
 
