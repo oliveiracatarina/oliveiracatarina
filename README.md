@@ -48,7 +48,7 @@ Atualmente, estou em transição de carreira, migrando do desenvolvimento back-e
 
 ## Experiências Profissionais
 
-**GFT – Alphaville**  
+**Empresa: GFT – Alphaville**  
 *Analista de Sistemas Jr.*  
 _Ago/2022 – Atual_  
 - Atuação em projetos de tecnologia com foco em qualidade de software.  
@@ -59,7 +59,7 @@ _Ago/2022 – Atual_
 - Contato com Spring Boot, JUnit, Mockito, JDBC e JPA.
 - Noções básicas de Postman para testes de API.
 
-**Biocenter Diagnósticos RJ**  
+**Empresa: Biocenter Diagnósticos RJ**  
 *Auxiliar Administrativa*  
 _Jun/2022 – Jul/2022_  
 - Administração de planilhas e documentação.  
@@ -69,7 +69,7 @@ _Jun/2022 – Jul/2022_
 _Abr/2022 – Jun/2022_  
 - Apoio administrativo, organização de arquivos, planilhas e contas digitais.
 
-**Faculdade Fernão Dias**  
+**Empresa: Faculdade Fernão Dias**  
 *Estagiária*  
 _Fev/2020 – Jun/2020_  
 - Manutenção e formatação de computadores.  
@@ -116,7 +116,7 @@ _Fev/2020 – Jun/2020_
 
 ## Certificações
 
-- Microsoft Azure Fundamentals (AZ-900) – Microsoft
+- Microsoft Azure Fundamentals (AZ-900) – **Microsoft**
 
 ---
 
