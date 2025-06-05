@@ -88,12 +88,29 @@ _Fev/2020 – Jun/2020_
 ---
 
 ## Cursos Complementares
+*TECNOLOGIA, PROGRAMAÇÃO E DESIGN*
+- Introdução à Gestão de Projetos, Projetos de Sistemas de TI – **Fundação Bradesco**;  
+- Java – **Udemy**; 
+- Java Mod I e II – **I9 Pro**;  
+- CorelDraw X6, Flash CS6, Google e Redes Sociais, Internet 2015, Photoshop CS6, Propaganda e Marketing, InDesign CS6, HTML 2013, FireWorks CS6, DreamWeaver CS6, Premiere CS6, Fotografia Digital, After Effects CS6, Windows 10 – **I9 Pro  – Centro Educacional**.
 
-- Introdução à Gestão de Projetos – Fundação Bradesco;  
-- Projetos de Sistemas de TI – Fundação Bradesco;  
-- Java – Udemy; 
-- Java Mod I e II – I9 Pro;  
-- CorelDraw X6, Flash CS6, Google e Redes Sociais, Internet 2015, Photoshop CS6, Propaganda e Marketing, InDesign CS6, HTML 2013, FireWorks CS6, DreamWeaver CS6, Premiere CS6, Fotografia Digital, After Effects CS6, Windows 10 – I9 Pro.
+
+*DADOS, INTELIGÊNCIA ARTIFICIAL E MACHINE LEARNING*
+- AI Impact Foundation, AI Literacy Training – **GFT Technologies**;
+- Intro to Machine Learning, Intro to Deep Learning, Machine Learning Explainability – **Kaggle**.
+
+
+*MOTORSPORT | ENGENHARIA, OPERAÇÕES E ESTRATÉGIA*
+- Análise de Dados no Kart, Aquisição de Dados no Motorsport – Parte 1 e Parte 2, Engenharia de Pista, Organização e Gerenciamento de Pneus, Estratégias em Corridas de Longa Duração – **Imersão Mulheres no Motorsport**.
+
+
+*MOTORSPORT | GESTÃO DE EVENTOS E MARKETING*
+- Introdução à Gestão de Eventos Esportivos, Logística em Eventos de Grande Porte, Marketing Automotivo, Storytelling e as Nuances da Construção Narrativa, Trajetória e Trabalho como Chefe de Equipe, Apresentação na Comissão Feminina de Automobilismo – **Imersão Mulheres no Motorsport**.
+
+
+*GESTÃO, LIDERANÇA E DESENVOLVIMENTO PESSOAL*
+- Introdução à Gestão de Projetos – **Fundação Bradesco**;
+- Propaganda e Marketing – **I9 Pro – Centro Educacional**.
 
 ---
 
