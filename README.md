@@ -98,6 +98,7 @@ _Fev/2020 – Jun/2020_
 
 
 *DADOS, INTELIGÊNCIA ARTIFICIAL E MACHINE LEARNING*
+- Introdução à  IA generativa – **Santander Open Academy**;
 - AI Impact Foundation, AI Literacy Training – **GFT Technologies**;
 - Intro to Machine Learning, Intro to Deep Learning, Machine Learning Explainability – **Kaggle**.
 
