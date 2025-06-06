@@ -97,6 +97,7 @@ _Feb/2020 – Jun/2020_
 - CorelDraw X6, Flash CS6, Google and Social Networks, Internet 2015, Photoshop CS6, Advertising and Marketing, InDesign CS6, HTML 2013, FireWorks CS6, DreamWeaver CS6, Premiere CS6, Digital Photography, After Effects CS6, Windows 10 – **I9 Pro – Centro Educacional**.
 
 *DATA, ARTIFICIAL INTELLIGENCE, AND MACHINE LEARNING*
+- Introdution to AI generative – Santander Open Academy
 - AI Impact Foundation, AI Literacy Training – **GFT Technologies**;
 - Intro to Machine Learning, Intro to Deep Learning, Machine Learning Explainability – **Kaggle**.
 
