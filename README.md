@@ -2,13 +2,9 @@
 
 [README - English version](https://github.com/oliveiracatarina/oliveiracatarina/blob/d8d577cf536afa15cf095ce5551eef2c2cf0206c/README-EN.md)
 
-Desenvolvedora Júnior com experiência intermediária em Java e conhecimento intermediário em Python. Já trabalhei com Spring Boot, realizando testes unitários com JUnit e Mockito, e possuo noções básicas de Postman para testes de API. Possuo experiência básica com JDBC e JPA, além de familiaridade com Git e conhecimento em Azure. Estudei JavaScript durante a graduação, sendo capaz de me desenvolver na linguagem conforme as demandas do projeto.
+Engenheira de Inteligência Artificial com experiência prática em desenvolvimento backend, ciência de dados e soluções baseadas em IA. Possuo domínio em linguagens como Java e Python, com atuação em testes unitários, modelagem de dados, versionamento com Git e implementação de pipelines em nuvem utilizando ferramentas como Azure Data Factory, Dataflow e Databricks. Tenho formação sólida em Machine Learning, Deep Learning e IA Generativa, com certificações e cursos em plataformas como Kaggle, Santander Open Academy e GFT Learning. Desenvolvo agentes inteligentes, aplico técnicas de anonimização de dados e atuo na criação de soluções automatizadas com foco em eficiência e conformidade. Além disso, sou apaixonada por tecnologia, inovação e Motorsport, área na qual possuo formação complementar em engenharia de pista, aquisição e análise de dados, logística e gestão de eventos esportivos.
 
-Sou uma profissional que aprende rápido, de forma autônoma, e tenho facilidade em buscar conhecimento por conta própria. Procuro tirar dúvidas apenas quando necessário, otimizando o aprendizado e a produtividade. Além disso, sou adaptável, gosto de desafios e estou sempre disposta a aprofundar meus conhecimentos para contribuir melhor com a equipe e os projetos.
-
-Atualmente, estou em transição de carreira, migrando do desenvolvimento back-end para a área de IA Generativa. Tenho conhecimento intermediário em Java, Python e báscio em Quality Assurance. Possuo experiência em testes unitários, documentação de processos, levantamento de requisitos e modelagem de dados, com foco crescente no aprimoramento de conhecimentos na área de dados. Tenho habilidade na identificação e resolução de problemas de qualidade, além da criação de soluções informatizadas alinhadas às necessidades organizacionais e expectativas de negócio. Tenho familiaridade com Microsoft Azure, incluindo Azure Data Factory, Dataflow e Databricks, para a construção e gestão de pipelines de dados e análise em ambientes de nuvem. Sou comprometida com a melhoria contínua e a qualidade de software ao longo do ciclo de desenvolvimento.
-
-**Idiomas:** Português (nativo), Inglês (intermediário), Espanhol (básico) e Alemão (básico).  
+**Idiomas:** Português (nativo), Inglês (intermediário - técnico), Espanhol (básico) e Alemão (básico).  
 
 **LinkedIn:** [linkedin.com/in/catarinaoliveira-tech](https://www.linkedin.com/in/catarinaoliveira-tech) 
 
@@ -29,7 +25,7 @@ Atualmente, estou em transição de carreira, migrando do desenvolvimento back-e
   Documentação de processos, levantamento de requisitos, modelagem de dados.
 
 - **Cloud e Dados:**  
-  Microsoft Azure (Azure Data Factory, Dataflow, Databricks), construção e gestão de pipelines de dados, análise de informações em ambientes de nuvem.
+  Microsoft Azure (Azure Data Factory, Dataflow, Databricks), Google Cloud Platform, construção e gestão de pipelines de dados, análise de informações em ambientes de nuvem.
 
 - **Git:**  
   Controle de versão e colaboração em projetos.
@@ -44,22 +40,43 @@ Atualmente, estou em transição de carreira, migrando do desenvolvimento back-e
   Administração de planilhas, emissão de notas fiscais, organização de arquivos, gerenciamento de contas de e-mail.
 
 - **Idiomas:**  
-  Português (nativo), Inglês (intermediário), Espanhol (básico), Alemão (básico).
+  Português (nativo), Inglês (intermediário - técnico), Espanhol (básico), Alemão (básico).
 
 ---
 
 ## Experiências Profissionais
 
 **Empresa: GFT – Alphaville**  
-*Analista de Sistemas Jr.*  
-_Ago/2022 – Atual_  
-- Atuação em projetos de tecnologia com foco em qualidade de software.  
-- Testes unitários, identificação e correção de erros em aplicações.  
-- Documentação de processos, levantamento de requisitos e modelagem de dados.  
-- Desenvolvimento e implementação de soluções informatizadas. 
+*Engenheira de Inteligência Artificial*  
+_Ago/2022 – Atual_ 
+
+*Projeto: Fábrica de Agentes - GFT Technologies* 
+- Desenvolvimento de soluções com foco em Inteligência Artificial e IA Generativa.
+- Programação em Python para criação e orquestração de agentes inteligentes.
+- Aplicação de técnicas de Machine Learning e Deep Learning em projetos de automação e análise de dados.
+- Criação de agente de formatação de documentos não estruturados, capaz de extrair informações relevantes e transformá-las em modelos padronizados, com suporte a múltiplos formatos (PDF, DOCX, TXT, imagens via OCR), garantindo precisão, conformidade e redução de erros.
+- Desenvolvimento de agente analista de dados com capacidade de ingestão de arquivos estruturados (CSV/XLSX), geração automática de estatísticas descritivas, identificação de tendências e criação de dashboards interativos com visualizações e insights em linguagem natural.
+- Integração com plataformas Microsoft e Google Cloud Platform (GCP).
+- Utilização de MCP Server para gerenciamento de agentes e fluxos automatizados.
+- Participação em iniciativas de ciência de dados, incluindo análise exploratória, modelagem preditiva e avaliação de desempenho de modelos.
+- Foco em escalabilidade, segurança, conformidade com normas de privacidade e experiência do usuário.
+
+*Projeto: Sustentação e Anonimização de Dados - Prudential* 
+- Atuação na cobertura de férias de colaboradores, focando na anonimização de dados sensíveis.
+- Utilização de Java para garantir conformidade com normas de privacidade e proteção de dados (LGPD).
+- Análise e manutenção de processos de anonimização em sistemas legados.
+- Apoio à equipe de sustentação na resolução de incidentes e na documentação técnica.
+
+*Projeto: Projeto: Gain IT - Rabobank* 
+- Participação em projetos de tecnologia com foco em qualidade de software.
+- Desenvolvimento backend em Java (Spring Boot) e Python.
+- Testes unitários com JUnit e Mockito, identificação e correção de erros em aplicações.
+- Documentação de processos, levantamento de requisitos e modelagem de dados.
+- Desenvolvimento e implementação de soluções computadorizadas.
 - Experiência com Microsoft Azure (Data Factory, Dataflow, Databricks).
-- Contato com Spring Boot, JUnit, Mockito, JDBC e JPA.
-- Noções básicas de Postman para testes de API.
+- Contato com frameworks e bibliotecas como Spring Boot, JUnit, Mockito, JDBC e JPA.
+- Conhecimento básico de Postman para testes de API.
+- Colaboração na melhoria contínua dos processos e na qualidade dos sistemas.
 
 **Empresa: Biocenter Diagnósticos RJ**  
 *Auxiliar Administrativa*  
@@ -81,6 +98,9 @@ _Fev/2020 – Jun/2020_
 
 ## Formação Acadêmica
 
+- **MBA em Artificial Intelligence**  
+  SSBM Geneva (Set/2025 – cursando)
+  
 - **Graduação em Análise e Desenvolvimento de Sistemas**  
   Faculdade Anhanguera (Mar/2022 – Jul/2024)
 
@@ -126,7 +146,7 @@ _Fev/2020 – Jun/2020_
 ## Idiomas
 
 - **Português:** Nativo;  
-- **Inglês:** Intermediário;  
+- **Inglês:** Intermediário - técnico;  
 - **Espanhol:** Básico;
 - **Alemão:** Básico.
 
@@ -134,4 +154,4 @@ _Fev/2020 – Jun/2020_
 
 ## Objetivo Atual
 
-Atualmente, estou focada em ampliar meus conhecimentos em Inteligência Artificial, especialmente IA generativa, complementando minha base em ciência de dados e desenvolvimento back-end para atuar em projetos inovadores na área de tecnologia e dados.
+Atualmente, estou atuando como Engenheira de Inteligência Artificial, desenvolvendo soluções inteligentes e analisando dados, aplicando técnicas avançadas de Machine Learning, Deep Learning e IA Generativa para resolver problemas complexos, otimizar processos e gerar inovação em ambientes tecnológicos e colaborativos.
