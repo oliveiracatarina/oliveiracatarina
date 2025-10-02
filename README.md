@@ -1,10 +1,9 @@
 # Catarina Oliveira
 
-[README - English version](https://github.com/oliveiracatarina/oliveiracatarina/blob/d8d577cf536afa15cf095ce5551eef2c2cf0206c/README-EN.md)
 
-Engenheira de Inteligência Artificial com experiência prática em desenvolvimento backend, ciência de dados e soluções baseadas em IA. Possuo domínio em linguagens como Java e Python, com atuação em testes unitários, modelagem de dados, versionamento com Git e implementação de pipelines em nuvem utilizando ferramentas como Azure Data Factory, Dataflow e Databricks. Tenho formação sólida em Machine Learning, Deep Learning e IA Generativa, com certificações e cursos em plataformas como Kaggle, Santander Open Academy e GFT Learning. Desenvolvo agentes inteligentes, aplico técnicas de anonimização de dados e atuo na criação de soluções automatizadas com foco em eficiência e conformidade. Além disso, sou apaixonada por tecnologia, inovação e Motorsport, área na qual possuo formação complementar em engenharia de pista, aquisição e análise de dados, logística e gestão de eventos esportivos.
+Artificial Intelligence Engineer with hands-on experience in backend development, data science, and AI-based solutions. I am proficient in languages such as Java and Python, with expertise in unit testing, data modeling, version control with Git, and implementation of cloud pipelines using tools like Azure Data Factory, Dataflow, and Databricks. I have a solid background in Machine Learning, Deep Learning, and Generative AI, with certifications and courses from platforms like Kaggle, Santander Open Academy, and GFT Learning. I develop intelligent agents, apply data anonymization techniques, and work on creating automated solutions focused on efficiency and compliance. Additionally, I am passionate about technology, innovation, and Motorsport, an area in which I have complementary training in track engineering, data acquisition and analysis, logistics, and sports event management.
 
-**Idiomas:** Português (nativo), Inglês (intermediário - técnico), Espanhol (básico) e Alemão (básico).  
+**Languages:** Portuguese (native), English (intermediate - technical), Spanish (basic), and German (basic).  
 
 **LinkedIn:** [linkedin.com/in/catarinaoliveira-tech](https://www.linkedin.com/in/catarinaoliveira-tech) 
 
@@ -12,146 +11,142 @@ Engenheira de Inteligência Artificial com experiência prática em desenvolvime
 
 ## Skills
 
-- **Linguagens de Programação:**  
-  Java (Intermediário), Python (Intermediário), HTML (básico), JavaScript (básico).
+- **Programming Languages:**  
+  Java (Intermediate), Python (Intermediate), HTML (basic), JavaScript (basic).
 
-- **Frameworks e Bibliotecas:**  
+- **Frameworks and Libraries:**  
   Spring Boot, JUnit, Mockito, JPA, JDBC.
 
-- **Qualidade e Testes:**  
-  Testes unitários, identificação e resolução de bugs, garantia da qualidade em desenvolvimento de software, Postman (básico para testes de API).
+- **Quality and Testing:**  
+  Unit testing, bug identification and resolution, software development quality assurance, Postman (basic for API testing).
 
-- **Documentação e Processos:**  
-  Documentação de processos, levantamento de requisitos, modelagem de dados.
+- **Documentation and Processes:**  
+  Process documentation, requirements gathering, data modeling.
 
-- **Cloud e Dados:**  
-  Microsoft Azure (Azure Data Factory, Dataflow, Databricks), Google Cloud Platform, construção e gestão de pipelines de dados, análise de informações em ambientes de nuvem.
+- **Cloud and Data:**  
+  Microsoft Azure (Azure Data Factory, Dataflow, Databricks), Google Cloud Platform, building and managing data pipelines, information analysis in cloud environments.
 
 - **Git:**  
-  Controle de versão e colaboração em projetos.
+  Version control and project collaboration.
 
-- **Ciência de Dados e IA:**  
-  Conhecimento básico em ciência de dados, iniciando estudos em Inteligência Artificial e aprofundamento em IA generativa.
+- **Data Science and AI:**  
+  Basic knowledge in data science, starting studies in Artificial Intelligence, and deepening knowledge in generative AI.
 
-- **Ferramentas e Softwares:**  
+- **Tools and Software:**  
   CorelDraw, Photoshop, InDesign, Flash, FireWorks, DreamWeaver, Premiere, After Effects, Google Classroom, Dropbox, Windows 10.
 
-- **Administração:**  
-  Administração de planilhas, emissão de notas fiscais, organização de arquivos, gerenciamento de contas de e-mail.
+- **Administration:**  
+  Spreadsheet management, invoice issuance, file organization, email account management.
 
-- **Idiomas:**  
-  Português (nativo), Inglês (intermediário - técnico), Espanhol (básico), Alemão (básico).
+- **Languages:**  
+  Portuguese (native), English (intermediate - technical), Spanish (basic), German (basic).
 
 ---
 
-## Experiências Profissionais
+## Professional Experience
 
-**Empresa: GFT – Alphaville**  
-*Engenheira de Inteligência Artificial*  
-_Ago/2022 – Atual_ 
+**Company: GFT – Alphaville**  
+*Artificial Intelligence Engineer*  
+_Aug/2022 – Present_ 
 
-*Projeto: Fábrica de Agentes - GFT Technologies* 
-- Desenvolvimento de soluções com foco em Inteligência Artificial e IA Generativa.
-- Programação em Python para criação e orquestração de agentes inteligentes.
-- Aplicação de técnicas de Machine Learning e Deep Learning em projetos de automação e análise de dados.
-- Criação de agente de formatação de documentos não estruturados, capaz de extrair informações relevantes e transformá-las em modelos padronizados, com suporte a múltiplos formatos (PDF, DOCX, TXT, imagens via OCR), garantindo precisão, conformidade e redução de erros.
-- Desenvolvimento de agente analista de dados com capacidade de ingestão de arquivos estruturados (CSV/XLSX), geração automática de estatísticas descritivas, identificação de tendências e criação de dashboards interativos com visualizações e insights em linguagem natural.
-- Integração com plataformas Microsoft e Google Cloud Platform (GCP).
-- Utilização de MCP Server para gerenciamento de agentes e fluxos automatizados.
-- Participação em iniciativas de ciência de dados, incluindo análise exploratória, modelagem preditiva e avaliação de desempenho de modelos.
-- Foco em escalabilidade, segurança, conformidade com normas de privacidade e experiência do usuário.
+*Project: Agent Factory - GFT Technologies*
+- Development of solutions focused on Artificial Intelligence and Generative AI.
+- Python programming for creation and orchestration of intelligent agents.
+- Application of Machine Learning and Deep Learning techniques in automation and data analysis projects.
+- Creation of an unstructured document formatting agent, capable of extracting relevant information and transforming it into standardized models, supporting multiple formats (PDF, DOCX, TXT, images via OCR), ensuring accuracy, compliance, and error reduction.
+- Development of a data analyst agent capable of ingesting structured files (CSV/XLSX), automatically generating descriptive statistics, identifying trends, and creating interactive dashboards with visualizations and insights in natural language.
+- Integration with Microsoft platforms and Google Cloud Platform (GCP).
+- Use of MCP Server for management of agents and automated workflows.
+- Participation in data science initiatives, including exploratory analysis, predictive modeling, and model performance evaluation.
+- Focus on scalability, security, compliance with privacy regulations, and user experience.
 
-*Projeto: Sustentação e Anonimização de Dados - Prudential* 
-- Atuação na cobertura de férias de colaboradores, focando na anonimização de dados sensíveis.
-- Utilização de Java para garantir conformidade com normas de privacidade e proteção de dados (LGPD).
-- Análise e manutenção de processos de anonimização em sistemas legados.
-- Apoio à equipe de sustentação na resolução de incidentes e na documentação técnica.
+*Project: Data Support and Anonymization - Prudential*
+- Acting as vacation backup for team members, focusing on sensitive data anonymization.
+- Using Java to ensure compliance with privacy and data protection regulations (LGPD).
+- Analysis and maintenance of anonymization processes in legacy systems.
+- Support to the maintenance team in incident resolution and technical documentation.
 
-*Projeto: Projeto: Gain IT - Rabobank* 
-- Participação em projetos de tecnologia com foco em qualidade de software.
-- Desenvolvimento backend em Java (Spring Boot) e Python.
-- Testes unitários com JUnit e Mockito, identificação e correção de erros em aplicações.
-- Documentação de processos, levantamento de requisitos e modelagem de dados.
-- Desenvolvimento e implementação de soluções computadorizadas.
-- Experiência com Microsoft Azure (Data Factory, Dataflow, Databricks).
-- Contato com frameworks e bibliotecas como Spring Boot, JUnit, Mockito, JDBC e JPA.
-- Conhecimento básico de Postman para testes de API.
-- Colaboração na melhoria contínua dos processos e na qualidade dos sistemas.
+*Project: Gain IT - Rabobank*
+- Participation in technology projects focusing on software quality.
+- Backend development in Java (Spring Boot) and Python.
+- Unit testing with JUnit and Mockito, bug identification and correction in applications.
+- Process documentation, requirements gathering, and data modeling.
+- Development and implementation of computerized solutions.
+- Experience with Microsoft Azure (Data Factory, Dataflow, Databricks).
+- Working with frameworks and libraries such as Spring Boot, JUnit, Mockito, JDBC, and JPA.
+- Basic knowledge of Postman for API testing.
+- Collaboration on continuous process improvement and system quality.
 
-**Empresa: Biocenter Diagnósticos RJ**  
-*Auxiliar Administrativa*  
+**Company: Biocenter Diagnósticos RJ**  
+*Administrative Assistant*  
 _Jun/2022 – Jul/2022_  
-- Administração de planilhas e documentação.  
-- Gerenciamento de reembolsos, notas fiscais, arquivos e contas digitais.
+- Spreadsheet and documentation management.  
+- Management of reimbursements, invoices, files, and digital accounts.
 
-*Estagiária de Auxiliar Administrativo*  
-_Abr/2022 – Jun/2022_  
-- Apoio administrativo, organização de arquivos, planilhas e contas digitais.
+*Administrative Assistant Intern*  
+_Apr/2022 – Jun/2022_  
+- Administrative support, organization of files, spreadsheets, and digital accounts.
 
-**Empresa: Faculdade Fernão Dias**  
-*Estagiária*  
-_Fev/2020 – Jun/2020_  
-- Manutenção e formatação de computadores.  
-- Cadastro de alunos e suporte técnico em plataformas digitais.
+**Company: Faculdade Fernão Dias**  
+*Intern*  
+_Feb/2020 – Jun/2020_  
+- Maintenance and formatting of computers.  
+- Student registration and technical support on digital platforms.
 
 ---
 
-## Formação Acadêmica
+## Academic Background
 
-- **MBA em Artificial Intelligence**  
-  SSBM Geneva (Set/2025 – cursando)
+- **MBA in Artificial Intelligence**  
+  SSBM Geneva (Sep/2025 – ongoing)
   
-- **Graduação em Análise e Desenvolvimento de Sistemas**  
+- **Bachelor’s Degree in Systems Analysis and Development**  
   Faculdade Anhanguera (Mar/2022 – Jul/2024)
 
-- **Ensino Médio Técnico em Tecnologia da Informação**  
-  Colégio Fernão Dias Pais (Concluído em 2021)
+- **Technical High School in Information Technology**  
+  Colégio Fernão Dias Pais (Completed in 2021)
 
 ---
 
-## Cursos Complementares
-*TECNOLOGIA, PROGRAMAÇÃO E DESIGN*
-- Introdução à Gestão de Projetos, Projetos de Sistemas de TI – **Fundação Bradesco**;  
+## Additional Courses
+*TECHNOLOGY, PROGRAMMING, AND DESIGN*
+- Introduction to Project Management, IT Systems Projects – **Fundação Bradesco**;  
 - Java – **Udemy**; 
-- Java Mod I e II – **I9 Pro**;  
-- CorelDraw X6, Flash CS6, Google e Redes Sociais, Internet 2015, Photoshop CS6, Propaganda e Marketing, InDesign CS6, HTML 2013, FireWorks CS6, DreamWeaver CS6, Premiere CS6, Fotografia Digital, After Effects CS6, Windows 10 – **I9 Pro  – Centro Educacional**.
+- Java Mod I and II – **I9 Pro**;  
+- CorelDraw X6, Flash CS6, Google and Social Networks, Internet 2015, Photoshop CS6, Advertising and Marketing, InDesign CS6, HTML 2013, FireWorks CS6, DreamWeaver CS6, Premiere CS6, Digital Photography, After Effects CS6, Windows 10 – **I9 Pro – Centro Educacional**.
 
-
-*DADOS, INTELIGÊNCIA ARTIFICIAL E MACHINE LEARNING*
-- Introdução à  IA generativa – **Santander Open Academy**;
+*DATA, ARTIFICIAL INTELLIGENCE, AND MACHINE LEARNING*
+- Introduction to Generative AI – **Santander Open Academy**;
 - AI Impact Foundation, AI Literacy Training – **GFT Technologies**;
 - Intro to Machine Learning, Intro to Deep Learning, Machine Learning Explainability – **Kaggle**.
 
+*MOTORSPORT | ENGINEERING, OPERATIONS, AND STRATEGY*
+- Data Analysis in Karting, Data Acquisition in Motorsport – Part 1 and Part 2, Track Engineering, Tire Organization and Management, Endurance Racing Strategies – **Imersão Mulheres no Motorsport**.
 
-*MOTORSPORT | ENGENHARIA, OPERAÇÕES E ESTRATÉGIA*
-- Análise de Dados no Kart, Aquisição de Dados no Motorsport – Parte 1 e Parte 2, Engenharia de Pista, Organização e Gerenciamento de Pneus, Estratégias em Corridas de Longa Duração – **Imersão Mulheres no Motorsport**.
+*MOTORSPORT | EVENT MANAGEMENT AND MARKETING*
+- Introduction to Sports Event Management, Logistics in Large Events, Automotive Marketing, Storytelling and the Nuances of Narrative Construction, Career and Work as Team Principal, Presentation at the Women’s Motorsport Commission – **Imersão Mulheres no Motorsport**.
 
-
-*MOTORSPORT | GESTÃO DE EVENTOS E MARKETING*
-- Introdução à Gestão de Eventos Esportivos, Logística em Eventos de Grande Porte, Marketing Automotivo, Storytelling e as Nuances da Construção Narrativa, Trajetória e Trabalho como Chefe de Equipe, Apresentação na Comissão Feminina de Automobilismo – **Imersão Mulheres no Motorsport**.
-
-
-*GESTÃO, LIDERANÇA E DESENVOLVIMENTO PESSOAL*
-- Introdução à Gestão de Projetos – **Fundação Bradesco**;
-- Propaganda e Marketing – **I9 Pro – Centro Educacional**.
+*MANAGEMENT, LEADERSHIP, AND PERSONAL DEVELOPMENT*
+- Introduction to Project Management – **Fundação Bradesco**;
+- Advertising and Marketing – **I9 Pro – Centro Educacional**.
 
 ---
 
-## Certificações
+## Certifications
 
 - Microsoft Azure Fundamentals (AZ-900) – **Microsoft**
 
 ---
 
-## Idiomas
+## Languages
 
-- **Português:** Nativo;  
-- **Inglês:** Intermediário - técnico;  
-- **Espanhol:** Básico;
-- **Alemão:** Básico.
+- **Portuguese:** Native;  
+- **English:** Intermediate - technical;  
+- **Spanish:** Basic;
+- **German:** Basic.
 
 ---
 
-## Objetivo Atual
+## Current Objective
 
-Atualmente, estou atuando como Engenheira de Inteligência Artificial, desenvolvendo soluções inteligentes e analisando dados, aplicando técnicas avançadas de Machine Learning, Deep Learning e IA Generativa para resolver problemas complexos, otimizar processos e gerar inovação em ambientes tecnológicos e colaborativos.
+Currently, I am working as an Artificial Intelligence Engineer, developing intelligent solutions and analyzing data, applying advanced Machine Learning, Deep Learning, and Generative AI techniques to solve complex problems, optimize processes, and drive innovation in technological and collaborative environments.
